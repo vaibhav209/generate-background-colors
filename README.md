@@ -3,6 +3,9 @@
 ## Discription
 This is a simple web application that generates random background colors when a button is clicked.
 
+## [Live App](https://vaibhav209.github.io/generate-background-colors/ "Click To Launch") : https://vaibhav209.github.io/generate-background-colors/
+
+
 ## Getting Started
 To run this application, simply open the index.html file in your web browser.
 
